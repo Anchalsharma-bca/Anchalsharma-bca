@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey 👋 I'm Anchal Sharma
 
-<!--
-**Anchalsharma-bca/Anchalsharma-bca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer
+💻 Passionate about Web Development & Modern Technologies
+🌱 Currently learning React.js, AI & Backend Development
+✨ Building responsive and user-friendly web experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+* Responsive Web Design
+
+---
+
+## 📌 Featured Projects
+
+* 🌐 Personal Portfolio Website
+* 🧮 Calculator App
+* 🔐 Login & Signup Page
+* ✅ To-Do List App
+* 🌦️ Weather App
+
+---
+
+## 🎯 Current Goals
+
+* Master React.js
+* Build Full Stack Projects
+* Learn Backend Development
+* Contribute to Open Source
+
+---
+
+📫 Reach me: [anukaushik187@gmail.com](mailto:anukaushik187@gmail.com)
